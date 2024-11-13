@@ -1,1 +1,3 @@
-# Homework 02
+Gabriel Baez
+
+This is my Coding Homework 2
